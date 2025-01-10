@@ -1,0 +1,6 @@
+1. Open the View Protected PDF in Google Chrome or any other browser.
+2. Scroll slowly trough that pdf until the end of the pdf.
+3. Press F12
+4. In the pop-ed up menu go to "Console"
+5. Copy and paste the content of "allow_paste.txt" intro "Console"
+6. Copy and paste the content of "script_to_download_pdf.js" intro "Console"
